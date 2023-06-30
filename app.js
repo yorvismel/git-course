@@ -12,3 +12,10 @@ let person = {
 
     console.log("Hola Mundo");
 
+    if (rep.first == "Juan") {
+        console.log("Se llama Juan");
+    }else {
+        console.log("No se llamara juan, se llama Lola");
+
+    }
+
