@@ -10,3 +10,5 @@ let person = {
    let rep =  person.first.replace("Juan", "lola")
     console.log(rep);
 
+    console.log("Hola Mundo");
+
